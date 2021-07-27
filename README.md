@@ -1,6 +1,6 @@
 # ui_page
 
-A new Flutter project.
+A small UI challenge flutter and dart.
 
 ## Getting Started
 
